@@ -1,0 +1,34 @@
+{
+  "name": "awesome-app",
+  "version": "0.0.0",
+  "description": "App for learning ExpressJs",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danna-png/awesome-app.git"
+  },
+  "engines": {
+    "node": "20.0.0",
+    "npm": "9.6.4"
+  },
+  "keywords": [
+    "Express",
+    "ITGAM",
+    "DWPCL",
+    "Javascript"
+  ],
+  "author": "@Danna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danna-png/awesome-app/issues"
+  },
+  "homepage": "https://github.com/danna-png/awesome-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
